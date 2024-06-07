@@ -36,9 +36,8 @@ The study provides a strategic guide for policymakers to promote equitable solar
 
 This repository serves as a valuable resource for researchers, policymakers, and stakeholders interested in understanding the role of RHR in shaping energy choices and promoting equitable solar adoption in diverse communities.
 
-===========================================================
-Home Energy Use, Demographics, and Solar Potential data set
-===========================================================
+# Home Energy Use, Demographics, and Solar Potential data set
+
 README
 
 - solar_data.csv
