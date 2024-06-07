@@ -1,3 +1,42 @@
+# Solar Adoption in Amherst: Analyzing the Impact of Rent-to-Homeowner Ratio
+
+This repository contains the code, data, and findings from a study that investigates the relationship between the rent-to-homeowner ratio (RHR) and heating energy choices, as well as solar adoption potential in Amherst, Massachusetts. The study aims to provide guidance for targeted energy transition policies that promote equitable renewable energy adoption across diverse socioeconomic blocks.
+
+## Key Features
+* Analysis of the correlation between RHR and factors such as median income, heating energy patterns, and solar feasibility
+* Utilization of linear regression and random forest models to predict RHR based on census variables
+* Assessment of solar suitability using parameters like roof area and sunlight exposure
+* Identification of solar adoption strategies for high-rent and low-rent areas
+* Introduction of RHR as a crucial factor in energy policy planning
+
+## Data
+The study utilizes the following datasets:
+* `census_data.csv`: Contains information on geographic locations, residential characteristics, and block-level attributes
+* `gas_meter_data.csv`: Includes detailed information about natural gas usage in homes with gas installations
+* `solar_data.csv`: Comprises information about the solar potential of individual housing units
+
+## Methodology
+The study employs various data analysis techniques, including:
+* Calculation of RHR and categorization of blocks into low-rent, median, and high-rent groups
+* Analysis of the relationship between RHR and other census variables using correlation heatmaps and regression models
+* Examination of heating energy source patterns across different rent categories
+* Evaluation of solar energy adoption potential based on roof area and sunlight exposure
+
+## Results
+The findings suggest that:
+* High-rent areas, despite lower median incomes, should focus on community-based solar projects
+* Low-rent areas offer extensive space for large solar installations
+* Targeting energy transition policies based on RHR can ensure a more equitable distribution of benefits and costs associated with decarbonizing residential heating
+
+## Policy Implications
+The study provides a strategic guide for policymakers to promote equitable solar energy adoption across different socioeconomic areas:
+* Prioritize community-based solar projects in high-rent areas
+* Implement a hybrid approach of individual and community solar initiatives in median-rent areas
+* Offer targeted incentives and financial support for individual solar projects in low-rent areas
+
+This repository serves as a valuable resource for researchers, policymakers, and stakeholders interested in understanding the role of RHR in shaping energy choices and promoting equitable solar adoption in diverse communities.
+
+===========================================================
 Home Energy Use, Demographics, and Solar Potential data set
 ===========================================================
 README
